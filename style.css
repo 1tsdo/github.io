@@ -65,7 +65,7 @@ body {
   opacity: 0.9;
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 670px) {
   .language {
     margin-top: 50px;
   }
