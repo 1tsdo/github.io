@@ -64,3 +64,9 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   opacity: 0.9;
 }
+
+@media all and (max-width: 767px) {
+  .language {
+    margin-top: 50px;
+  }
+}
